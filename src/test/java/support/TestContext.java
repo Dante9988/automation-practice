@@ -1,4 +1,3 @@
-// Created by Anvar Baltakhojayev 12/01/2020
 package support;
 
 import io.github.bonigarcia.wdm.WebDriverManager;

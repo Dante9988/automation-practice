@@ -2,3 +2,23 @@ INFO 21:01:13:234 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriv
 INFO 21:01:13:264 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
 INFO 21:01:18:643 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
 INFO 21:01:18:648 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 01:17:03:478 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 01:17:03:504 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 01:17:53:170 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 01:17:53:187 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 01:59:04:413 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 01:59:04:436 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 02:04:18:068 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 02:04:18:089 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 02:06:22:524 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 02:06:22:543 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 02:11:52:254 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 02:11:52:274 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 02:13:27:069 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 02:13:27:086 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 02:47:28:693 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 02:47:28:718 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 03:20:31:727 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 03:20:31:749 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
+INFO 03:21:57:646 wdm.WebDriverManager resolveDriverVersion:573 Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+INFO 03:21:57:678 wdm.WebDriverManager exportDriver:631 Exporting webdriver.chrome.driver as /Users/anvarxadja/.m2/repository/webdriver/chromedriver/mac64/88.0.4324.96/chromedriver
