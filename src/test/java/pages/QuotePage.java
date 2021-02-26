@@ -71,7 +71,7 @@ public class QuotePage extends Page {
     private WebElement carMake;
 
     @FindBy(xpath = "//*[@id='thirdPartyButton']")
-    private WebElement thirdPartyAgreement;                          // Need to accept popup via manage() function
+    private WebElement thirdPartyAgreement;                             // Need to accept popup
 
     @FindBy(xpath = "//iframe[@name='additionalInfo']")
     private WebElement additionalInfo;                                  // Need to access over iframe, xpath is iframe
