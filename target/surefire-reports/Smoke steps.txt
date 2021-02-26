@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Smoke steps
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.159 s <<< FAILURE! - in Smoke steps
+Smoke steps.Sign up steps  Time elapsed: 3.657 s  <<< ERROR!
+java.lang.NullPointerException
+
